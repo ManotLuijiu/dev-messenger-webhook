@@ -1,0 +1,24 @@
+{
+  "name": "messenger-webhook",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@bitbucket.org/meansbusiness/dev-messenger-webhook.git"
+  },
+  "keywords": [
+    "facebook",
+    "messenger"
+  ],
+  "author": "Manot Luijiu",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/meansbusiness/dev-messenger-webhook#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "express": "^4.16.3"
+  }
+}
